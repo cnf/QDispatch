@@ -1,6 +1,4 @@
 ## IDF Component Manager Manifest File
-targets:
-- esp32
 version: 1.0.1
 files:
   use_gitignore: true
